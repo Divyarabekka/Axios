@@ -1,0 +1,16 @@
+{
+  "book": [
+    {
+      "id": "4",
+      "name": "fruite",
+      "price": "123",
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2022/3/ZZ/PW/RZ/36905324/fruits-watermelons.jpg"
+    },
+    {
+      "id": "2",
+      "name": "graps",
+      "price": "1223",
+      "imageUrl": "https://www.pngkey.com/png/detail/393-3936134_report-abuse-single-fruits-and-vegetables.png"
+    }
+  ]
+}
